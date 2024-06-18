@@ -6,8 +6,6 @@ Hi 👋, I'm Varnitha Chinthala</h1>
 
 - 📫 How to reach me **chinthalavarnitha@gmail.com**
 
-- 📄 Know about my experiences [file:///E:/Certificates/AP21110011407_Resume.pdf](file:///E:/Certificates/AP21110011407_Resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/varnitha04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varnitha04" height="30" width="40" /></a>
