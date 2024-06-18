@@ -3,8 +3,6 @@
 ### A passionate Software Developer and Full Stack Developer currently pursuing BTech CSE (4th Year, 2021-25) with specialization in AI and ML, and a minor in Management at SRM University AP.
 
 
-<p align="left"> <a href="https://github.com/varnitha2204/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varnitha2204" alt="varnitha2204" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/varnitha04" target="blank"><img src="https://img.shields.io/twitter/follow/varnitha04?logo=twitter&style=for-the-badge" alt="varnitha04" /></a> </p>
 
 - 🔭 I’m currently working on **Multimodal Biometric Authentication Using EEG**
