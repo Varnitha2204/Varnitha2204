@@ -2,10 +2,18 @@
 
 ### A passionate Software Developer and Full Stack Developer currently pursuing BTech CSE (4th Year, 2021-25) with specialization in AI and ML, and a minor in Management at SRM University AP.
 
+
+<p align="left"> <a href="https://github.com/varnitha2204/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varnitha2204" alt="varnitha2204" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/varnitha04" target="blank"><img src="https://img.shields.io/twitter/follow/varnitha04?logo=twitter&style=for-the-badge" alt="varnitha04" /></a> </p>
+
 - 🔭 I’m currently working on **Multimodal Biometric Authentication Using EEG**
 - 📫 How to reach me: **chinthalavarnitha@gmail.com**
 
 ---
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
 
@@ -114,3 +122,9 @@
     <img src="https://stats.quine.sh/Varnitha2204/github?theme=dark" alt="Varnitha2204's GitHub | Stats" style="border: 2px solid #6C757D; padding: 5px;"/>
   </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varnitha2204&show_icons=true&locale=en&layout=compact" alt="varnitha2204" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varnitha2204&show_icons=true&locale=en" alt="varnitha2204" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varnitha2204&" alt="varnitha2204" /></p>
