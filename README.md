@@ -1,3 +1,25 @@
+<!--## Usage Policy 📄
+
+Please **do not copy the code directly from this repository**. Instead, fork this repository or clone it if you want to use or modify the code. Respecting this policy helps ensure proper attribution and version control. Thank you!
+
+By using the code in this repository, you agree to these terms.
+
+## Why Fork or Clone?
+
+Forking or cloning the repository allows you to:
+- Get the latest updates.
+- Keep your changes separate and organized.
+- Contribute back to the original project.
+
+You can follow the below steps:
+- Fork the repository: Click on the "Fork" button at the top-right and star the repo.
+- Clone the repository: Use the following command:
+   git clone https://github.com/your-username/your-repo-name.git
+- Start working on your fork
+- If you've made improvements or fixes in your fork that you want to share with the original project, you can commit the changes and create a pull request.
+
+-->
+
 # Hi 👋, I'm Varnitha Chinthala
 
 A passionate Software Developer and Full Stack Developer currently pursuing BTech CSE (4th Year, 2021-25) with specialization in AI and ML, and a minor in Management at SRM University AP.
