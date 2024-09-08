@@ -1,9 +1,10 @@
 # Hi 👋, I'm Varnitha Chinthala
 
-### A passionate Software Developer and Full Stack Developer currently pursuing BTech CSE (4th Year, 2021-25) with specialization in AI and ML, and a minor in Management at SRM University AP.
+A passionate Software Developer and Full Stack Developer currently pursuing BTech CSE (4th Year, 2021-25) with specialization in AI and ML, and a minor in Management at SRM University AP.
 
-
+<!--
 <p align="left"> <a href="https://twitter.com/varnitha04" target="blank"><img src="https://img.shields.io/twitter/follow/varnitha04?logo=twitter&style=for-the-badge" alt="varnitha04" /></a> </p>
+-->
 
 - 🔭 I’m currently working on **Multimodal Biometric Authentication Using EEG**
 - 📫 How to reach me: **chinthalavarnitha@gmail.com**
@@ -15,102 +16,33 @@
 
 ### Connect with me:
 
-<p align="left">
-  <a href="https://twitter.com/varnitha04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varnitha04" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/varnitha chinthala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varnitha chinthala" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/varnithac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="varnithac" height="30" width="40" /></a>
-  <a href="https://medium.com/@chinthala varnitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chinthala varnitha" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/★ap21110011407" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="★ap21110011407" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/ap21110011407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ap21110011407" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/varnitha86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varnitha86" height="30" width="40" /></a>
-</p>
+[![Twitter](https://img.shields.io/twitter/follow/varnitha04?label=Follow&style=social)](https://twitter.com/varnitha04)
+[![LinkedIn](https://img.shields.io/badge/-Varnitha%20Chinthala-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/varnitha%20chinthala)](https://linkedin.com/in/varnitha%20chinthala)
+[![Stack Overflow](https://img.shields.io/badge/-VarnithaC-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/varnithac)](https://stackoverflow.com/users/varnithac)
+[![Medium](https://img.shields.io/badge/-@chinthala%20varnitha-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@chinthalavarnitha)](https://medium.com/@chinthalavarnitha)
+[![CodeChef](https://img.shields.io/badge/-AP21110011407-brown?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/★ap21110011407)](https://www.codechef.com/users/★ap21110011407)
+[![HackerRank](https://img.shields.io/badge/-AP21110011407-green?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/ap21110011407)](https://www.hackerrank.com/ap21110011407)
+[![LeetCode](https://img.shields.io/badge/-Varnitha86-yellow?style=flat-square&logo=leetcode&logoColor=white&link=https://www.leetcode.com/varnitha86)](https://www.leetcode.com/varnitha86)
+
 
 ---
 
 ### Languages and Tools:
 
-#### Frontend:
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="border: 2px solid #4CAF50; padding: 5px;"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="border: 2px solid #4CAF50; padding: 5px;"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="border: 2px solid #4CAF50; padding: 5px;"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="border: 2px solid #4CAF50; padding: 5px;"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="border: 2px solid #4CAF50; padding: 5px;"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="border: 2px solid #4CAF50; padding: 5px;"/> 
-  </a> 
-</p>
+### Frontend:
+<center> <table> <tbody> <tr> <td align="center"> <span><strong>HTML</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="border: 2px solid #4CAF50; padding: 5px;"> </td> <td align="center"> <span><strong>CSS</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="border: 2px solid #4CAF50; padding: 5px;"> </td> <td align="center"> <span><strong>JavaScript</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="border: 2px solid #4CAF50; padding: 5px;"> </td> <td align="center"> <span><strong>React</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="border: 2px solid #4CAF50; padding: 5px;"> </td> <td align="center"> <span><strong>React Native</strong></span><br/> <img height="64px" width="64px" src="https://reactnative.dev/img/header_logo.svg" style="border: 2px solid #4CAF50; padding: 5px;"> </td> <td align="center"> <span><strong>Bootstrap</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="border: 2px solid #4CAF50; padding: 5px;"> </td> </tr> </tbody> </table> </center>
 
-#### Backend:
-<p align="left"> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="border: 2px solid #FF5733; padding: 5px;"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="border: 2px solid #FF5733; padding: 5px;"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="border: 2px solid #FF5733; padding: 5px;"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="border: 2px solid #FF5733; padding: 5px;"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="border: 2px solid #FF5733; padding: 5px;"/> 
-  </a> 
-</p>
+### Backend:
+<center> <table> <tbody> <tr> <td align="center"> <span><strong>Node.js</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> <td align="center"> <span><strong>Express</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> <td align="center"> <span><strong>Flask</strong></span><br/> <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> <td align="center"> <span><strong>Django</strong></span><br/> <img height="64px" width="64px" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> <td align="center"> <span><strong>PHP</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> </tr> </tbody> </table> </center>
 
-#### Developer Tools:
-<p align="left"> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="border: 2px solid #FFC300; padding: 5px;"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="border: 2px solid #FFC300; padding: 5px;"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="border: 2px solid #FFC300; padding: 5px;"/> 
-  </a>
-</p>
+### Developer Tools:
+<center> <table> <tbody> <tr> <td align="center"> <span><strong>Docker</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="border: 2px solid #FFC300; padding: 5px;"> </td> <td align="center"> <span><strong>Postman</strong></span><br/> <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="border: 2px solid #FFC300; padding: 5px;"> </td> <td align="center"> <span><strong>Linux</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="border: 2px solid #FFC300; padding: 5px;"> </td> </tr> </tbody> </table> </center>
 
-#### Databases:
-<p align="left"> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="border: 2px solid #28A745; padding: 5px;"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="border: 2px solid #28A745; padding: 5px;"/> 
-  </a>
-</p>
+### Databases:
+<center> <table> <tbody> <tr> <td align="center"> <span><strong>MongoDB</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="border: 2px solid #28A745; padding: 5px;"> </td> <td align="center"> <span><strong>MySQL</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="border: 2px solid #28A745; padding: 5px;"> </td> </tr> </tbody> </table> </center>
 
-#### Programming Languages:
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="border: 2px solid #007BFF; padding: 5px;"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="border: 2px solid #007BFF; padding: 5px;"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="border: 2px solid #007BFF; padding: 5px;"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="border: 2px solid #007BFF; padding: 5px;"/> 
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" style="border: 2px solid #007BFF; padding: 5px;"/> 
-  </a>
-</p>
+### Programming Languages:
+<center> <table> <tbody> <tr> <td align="center"> <span><strong>C</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="border: 2px solid #007BFF; padding: 5px;"> </td> <td align="center"> <span><strong>C++</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="border: 2px solid #007BFF; padding: 5px;"> </td> <td align="center"> <span><strong>Java</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="border: 2px solid #007BFF; padding: 5px;"> </td> <td align="center"> <span><strong>Python</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="border: 2px solid #007BFF; padding: 5px;"> </td> <td align="center"> <span><strong>MATLAB</strong></span><br/> <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="border: 2px solid #007BFF; padding: 5px;"> </td> </tr> </tbody> </table> </center>
 
 ---
 
@@ -126,3 +58,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varnitha2204&show_icons=true&locale=en" alt="varnitha2204" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varnitha2204&" alt="varnitha2204" /></p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=varnitha2204&color=blueviolet)
+
