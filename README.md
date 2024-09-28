@@ -81,7 +81,7 @@ A passionate Software Developer and Full Stack Developer currently pursuing BTec
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varnitha2204&" alt="varnitha2204" /></p>
 
-[![An image of @varnitha2204's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varnitha2204)](https://holopin.io/@varnitha2204)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=varnitha2204&color=blueviolet)
 
